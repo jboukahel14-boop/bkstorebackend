@@ -1,0 +1,466 @@
+[
+  {
+    "code": "01",
+    "name_en": "Adrar",
+    "name_ar": "أدرار",
+    "delivery_fee_home": 800,
+    "delivery_fee_desk": 500,
+    "communes": ["Adrar", "Reggane", "Tit", "Tsabit", "Timimoun", "Ouled Said", "Zaouiet Kounta", "Aoulef", "Akabli", "Tamekten", "Fenoughil", "Tamest", "Tinerkouk", "Bouda", "In Zghmir", "Sali", "Sebaa", "Metarfa", "Aougrout", "Deldoul", "Charouine", "Talmine", "Ouled Aissa", "Ain Belda", "Boudjemaa"]
+  },
+  {
+    "code": "02",
+    "name_en": "Chlef",
+    "name_ar": "الشلف",
+    "delivery_fee_home": 600,
+    "delivery_fee_desk": 400,
+    "communes": ["Chlef", "Oum Drou", "Oued Fodda", "El Hadjadj", "Bouzeghaia", "Ain Merane", "Ouled Farés", "Zeboudja", "Abou El Hassan", "Beni Bouattab", "El Karimia", "Boukadir", "Sobha", "Ouled Ben Abdelkader", "Sidi Akkacha", "Tafesra", "Benairia", "Beni Abbes", "El Marsa", "Chettia", "Labiod Medjadja", "Sendjas", "Ouled Abbes", "Moussadek", "Ain Bouziane", "Taougrit", "Harenfa", "Bouzghaia", "El Ossasif", "Zelaza"]
+  },
+  {
+    "code": "03",
+    "name_en": "Laghouat",
+    "name_ar": "الأغواط",
+    "delivery_fee_home": 800,
+    "delivery_fee_desk": 500,
+    "communes": ["Laghouat", "Ksar El Hirane", "Ain Madhi", "Afflou", "Brida", "El Assafia", "Ain Sidi Ali", "Hassi R'Mel", "Gueltat Sidi Saad", "Mekhareg", "Makhdhar", "Ghardaia", "Oued Morra", "Tadjmout", "El Ghicha", "Sidi Bouzid", "Hassi Delaa", "Kheneg", "Sidi Makhlouf", "El Beidha", "El Houaita"]
+  },
+  {
+    "code": "04",
+    "name_en": "Oum El Bouaghi",
+    "name_ar": "أم البواقي",
+    "delivery_fee_home": 600,
+    "delivery_fee_desk": 400,
+    "communes": ["Oum El Bouaghi", "Ain Beida", "Ain M'lila", "Meskiana", "Ain Kercha", "Berriche", "Ain Fakroun", "Ain Babouche", "Souk Naamane", "Sigus", "Oued Nini", "Ain Zitoun", "Ksar Sbahi", "Behir Chergui", "El Amiria", "Ain Diss", "El Fedjoudj", "Ouled Gacem", "Ouled Hamla", "Bhir Chergui", "Harmalia", "Fkirina", "Chebakia", "Ain El Beida", "Ain Larbi"]
+  },
+  {
+    "code": "05",
+    "name_en": "Batna",
+    "name_ar": "باتنة",
+    "delivery_fee_home": 600,
+    "delivery_fee_desk": 400,
+    "communes": ["Batna", "Tazoult", "Ain Touta", "Arris", "Barika", "Merouana", "N'Gaous", "Ain Yagout", "Oued Taga", "Ras El Aioun", "Ain Djasser", "Ain Kerma", "Bouzina", "Timgad", "Bitam", "Sefiane", "Chemora", "El Madher", "Talkhamt", "Ouled Si Slimane", "Ghoufi", "Teniet El Abed", "Ouled Aouf", "Ain Larbi", "Larbaa", "Fesdis", "Gosbat", "Kimmel", "Ouled Fadel", "Ouled Sellam", "Hidoussa", "Medina", "Seriana", "Assia", "Zana El Beida", "Tigharghar", "Merbes", "Oghre", "Ifan", "Beni Foudala", "Ouled Chamekh"]
+  },
+  {
+    "code": "06",
+    "name_en": "Béjaïa",
+    "name_ar": "بجاية",
+    "delivery_fee_home": 500,
+    "delivery_fee_desk": 350,
+    "communes": ["Béjaïa", "Amizour", "Aokas", "Boudjellil", "Beni Maouche", "Ait Smail", "Ait R'zine", "Tichy", "Seddouk", "Setara", "Barbacha", "El Kseur", "Timezrit", "Ouzellaguen", "Kendira", "Fenaia Il Maten", "Bouhamza", "Bouzeguene", "Melbou", "Sidi Ayad", "Chemini", "Darguina", "Adekar", "Akbou", "Sidi Aich", "Ighram", "Amalou", "Tazmalt", "Ichellou", "Beni Ksila", "Tizi N'Berber", "Ait El Kaid", "El Flay", "Oued Ghir", "Toksi", "Tala Hamza", "Tamokra", "Beni Djellil", "Souk El Tenin", "Ait Bouali", "Gouraya", "Djaafra"]
+  },
+  {
+    "code": "07",
+    "name_en": "Biskra",
+    "name_ar": "بسكرة",
+    "delivery_fee_home": 700,
+    "delivery_fee_desk": 450,
+    "communes": ["Biskra", "Tolga", "Sidi Okba", "El Kantara", "Sidi Khaled", "Loutaya", "El Outaya", "Ourlal", "Oumache", "Branis", "El Hadjeb", "Foughala", "Sidi Aoun", "M'Chouneche", "Garta", "Ain Naga", "Zeribet El Oued", "Djemorah", "El Feidh", "Lioua", "Doucen", "Bordj Ben Azzouz", "Meziraa", "Chetma", "El Ghrous", "Kangret", "Chetma", "Sidi Abid"]
+  },
+  {
+    "code": "08",
+    "name_en": "Béchar",
+    "name_ar": "بشار",
+    "delivery_fee_home": 1000,
+    "delivery_fee_desk": 600,
+    "communes": ["Béchar", "Kenadsa", "Beni Ounif", "Abadla", "Taghit", "Boukais", "Lahmar", "Igli", "Meridja", "El Ouata", "Mogheul", "Bechar", "Ouled Khoudir", "Beni Abbes", "Tabelbala", "Kerzaz", "Timoudi", "Mougheul", "Ksabi", "Beni Ikhlef"]
+  },
+  {
+    "code": "09",
+    "name_en": "Blida",
+    "name_ar": "البليدة",
+    "delivery_fee_home": 400,
+    "delivery_fee_desk": 250,
+    "communes": ["Blida", "Boufarik", "Bouinan", "Sidi Moussa", "Chebli", "Bouarfa", "Baata", "Soumaa", "Beni Tamou", "Oued El Alleug", "Larbaa", "Bouggara", "Bougara", "Mouzaia", "Chiffa", "Guerrouaou", "Ouled Yaich", "Ouled Slama", "Boumedfaa", "Maftar", "Ain Romana", "Chrea", "Hammam Elouane", "Meftah", "Souk El Khemis", "Ain El Hadjar", "Bouchetata", "Djebabra", "El Oued El Alleug"]
+  },
+  {
+    "code": "10",
+    "name_en": "Bouira",
+    "name_ar": "البويرة",
+    "delivery_fee_home": 500,
+    "delivery_fee_desk": 350,
+    "communes": ["Bouira", "Lakhdaria", "Sour El Ghozlane", "Bordj Okhriss", "M'Chedallah", "Ain Bessem", "Ain El Turc", "Bir Ghabbalou", "Ain Laloui", "El Hachimia", "Oued El Berdi", "Haizer", "Taghzout", "Aghbalou", "Raouraoua", "El Asnam", "Mezdour", "Maala", "Dirah", "Ahl El Ksar", "El Khabouzia", "Bechloul", "Saharidj", "Ain El Hadjar", "Hadjera Zerga", "El Adjiba", "Ridane", "Guerrouma", "Zbarbar", "Ait Laaziz", "Chorfa", "Beni Haoua", "Kadiria"]
+  },
+  {
+    "code": "11",
+    "name_en": "Tamanrasset",
+    "name_ar": "تمنراست",
+    "delivery_fee_home": 1500,
+    "delivery_fee_desk": 900,
+    "communes": ["Tamanrasset", "Abalessa", "Tassili", "In Salah", "In Amguel", "Iherir", "Idlès", "In Guezzam", "Tazrouk", "Illizi", "Djanet", "Bordj El Haouas", "Tin Zaouatine", "Ain Amguel"]
+  },
+  {
+    "code": "12",
+    "name_en": "Tébessa",
+    "name_ar": "تبسة",
+    "delivery_fee_home": 700,
+    "delivery_fee_desk": 450,
+    "communes": ["Tébessa", "El Aouinet", "Morsott", "Ouenza", "El Kouif", "Bir El Ater", "Bir Mokkadem", "Bekkaria", "Negrine", "El Ma Labiodh", "El Malabiod", "Cheria", "Bir Dheheb", "Nador", "Ain Zerga", "Saf El Ouiden", "Houidjbet", "Stah Guentis", "Oum Ali", "El Ogla", "El Meridj", "Telidjen", "Boukhadra", "Ain Chabro", "Ferkane", "Meskiana"]
+  },
+  {
+    "code": "13",
+    "name_en": "Tlemcen",
+    "name_ar": "تلمسان",
+    "delivery_fee_home": 600,
+    "delivery_fee_desk": 400,
+    "communes": ["Tlemcen", "Chetouane", "Mansourah", "Ain Fezza", "Hennaya", "Amieur", "Beni Mester", "Sabra", "Ain Youcef", "Remchi", "Ain Nehala", "Ain Kebira", "Ain Ghoraba", "Sidi Abdelli", "Bensekrane", "Honnaine", "Ghazaouet", "Souk El Ténia", "Nedroma", "Maghnia", "Ouled Mimoun", "Ain Tallout", "Bab El Assa", "Dar Yaghmouracene", "Dahmouni", "Cherchel", "Oued Chouly", "Fellaoucene", "Beni Boussaïd", "Azail", "El Bouihi", "Ouled Riyah", "Sidi Djillali", "Bouhlou", "Terny Beni Hediel", "El Aricha", "Souahlia", "Beni Snous", "Ain Fettah", "Zenata", "Boumediene", "Moualine", "Tianet", "Sidi M'Bareuc", "Ain El Hadjadj"]
+  },
+  {
+    "code": "14",
+    "name_en": "Tiaret",
+    "name_ar": "تيارت",
+    "delivery_fee_home": 600,
+    "delivery_fee_desk": 400,
+    "communes": ["Tiaret", "Sougueur", "Ain Deheb", "Frenda", "Mahdia", "Mellakou", "Sidi Bakhti", "Rahouia", "Dahmouni", "Medrissa", "Ain Kermes", "Ksar Chellala", "Rechaiga", "Zmalet El Emir Abdelkader", "Nador", "Seffal", "Sid Hosni", "Bougara", "Oued Lili", "Mechraa Safa", "Tousnina", "Sidi Ali Mellal", "Ain Dzarit", "Djillali Ben Ammar", "Sebaine", "Guertoufa", "Ferdjia", "Sidi Slimane", "Ouled Amar"]
+  },
+  {
+    "code": "15",
+    "name_en": "Tizi Ouzou",
+    "name_ar": "تيزي وزو",
+    "delivery_fee_home": 500,
+    "delivery_fee_desk": 350,
+    "communes": ["Tizi Ouzou", "Draa Ben Khedda", "Tigzirt", "Mizrana", "Freha", "Ait Chafaa", "Boudjima", "Beni Douala", "Beni Yenni", "Mekla", "Bouzeguen", "Ait Boumahdi", "Tizi Rached", "Imsouhal", "Illoula Oumalou", "Yahia Beni Guecha", "Beni Zmenzer", "Ait Tizi", "Ait Aggouacha", "Aghrib", "Souk El Thenine", "Zekri", "Iflissen", "Tifra", "Azazga", "Ait Aouane", "Idjeur", "Abi Youcef", "Ait Yahia", "Tizi N'Tleta", "Beni Aissi", "Beni Zikki", "Ain El Hammam", "Ait Mahmoud", "Ait Khellili", "Agouni Gueghrane", "Boudjima", "Ouaguenoun", "Draa El Mizan", "Boghni", "Bounouh", "Ait Bouadou", "Assi Youcef", "Bechloul", "Tadmait", "Sidi N'Mane", "Maatka", "Souamaa", "Ait Ouacif", "Ait Yahia Moussa"]
+  },
+  {
+    "code": "16",
+    "name_en": "Algiers",
+    "name_ar": "الجزائر",
+    "delivery_fee_home": 400,
+    "delivery_fee_desk": 250,
+    "communes": ["Alger Centre", "Sidi M'Hamed", "El Madania", "Hamma Anassers", "Bab El Oued", "Bab Ezzouar", "Bologhine", "Casbah", "Hussein Dey", "El Harrach", "Bachdjarah", "Belouizdad", "Hai Kouba", "El Magharia", "Kouba", "Ain Benian", "Cheraga", "Dely Ibrahim", "El Biar", "Hydra", "Birkhadem", "Saoula", "Gué de Constantine", "Bourouba", "Oued Koriche", "Bir Mourad Raïs", "Ain Taya", "Bordj El Bahri", "El Marsa", "Bordj El Kiffan", "Dar El Beida", "Mohamedia", "Rouiba", "Reghaia", "Eucalyptus"]
+  },
+  {
+    "code": "17",
+    "name_en": "Djelfa",
+    "name_ar": "الجلفة",
+    "delivery_fee_home": 700,
+    "delivery_fee_desk": 450,
+    "communes": ["Djelfa", "Ain Oussera", "Messaâd", "Birine", "El Idrissia", "Hassi Bahbah", "Dar Chioukh", "Foumart", "Zaafrane", "Guettara", "Oued Chaar", "Ain Fekka", "Beni Yagoub", "El Guedid", "Moudjebara", "Sidi Laadjel", "Ain El Ibel", "Charef", "Bouira Lahdab", "Hassi Fedoul", "Khemissa", "Ain El Maabed", "Ain Chouhada", "Bir Ould Khelifa", "Deldoul", "Amourah", "Ain Chouhada", "Had Sahary", "Taadmit", "Zaccar", "Bouara", "Selsef"]
+  },
+  {
+    "code": "18",
+    "name_en": "Jijel",
+    "name_ar": "جيجل",
+    "delivery_fee_home": 500,
+    "delivery_fee_desk": 350,
+    "communes": ["Jijel", "El Milia", "Taher", "Ziama Mansouriah", "Kaous", "Emir Abdelkader", "Chekfa", "El Aouana", "Djimla", "Sidi Abdelaziz", "Boudriaa Ben Yadjis", "Bouraoui Belhadef", "Settara", "Djimla", "El Kennar Nouchfi", "Ouadjana", "Selma Benziada", "Texenna", "Chahna", "Ouled Yahia Khadrouch", "Ouled Rabah", "Erraguene Souissi", "Ghebala", "Boussif Ouled Askeur", "El Ancer", "Ouled Saber", "Bordj T'har", "Kaous", "Ghebala"]
+  },
+  {
+    "code": "19",
+    "name_en": "Sétif",
+    "name_ar": "سطيف",
+    "delivery_fee_home": 500,
+    "delivery_fee_desk": 350,
+    "communes": ["Sétif", "El Eulma", "Ain Oulmene", "Ain Arnat", "Bougaa", "Ain El Kebira", "Djemila", "Babors", "Bazer Sakhra", "Guellal", "Hamma Guergour", "Ain Roua", "Ain Azel", "Ain Abessa", "Amoucha", "Ouled Addouane", "Beni Ourtilane", "Beni Chebana", "Boutaleb", "Ain Lahdjar", "Guidjel", "Mezloug", "El Ouricia", "Ain Wilmen", "Ait Tizi", "Draa Kebila", "Bir Haddada", "Oued Btam", "Salah Bey", "Ouled Saber", "Hammam Sokhna", "Ouled Si Ahmed", "Ain Legradj", "Ain Selt", "Beni Fouda", "Rasfa", "Tachouda", "Taya", "Sebaou", "Bousselam", "Ouled Tebben", "Ain Guezerit", "El Ouedja", "Bouchakoul", "Maouane", "Beni Aziz", "Boubazite", "Bellaa", "El Guedid"]
+  },
+  {
+    "code": "20",
+    "name_en": "Saïda",
+    "name_ar": "سعيدة",
+    "delivery_fee_home": 700,
+    "delivery_fee_desk": 450,
+    "communes": ["Saïda", "Ain El Hadjar", "Youb", "Ouled Brahim", "Ain Skhouna", "Sidi Boubekeur", "Hounet", "Ouled Khaled", "El Hassasna", "Doui Thabet", "Sidi Amor", "Ouled Maya", "Bou Amama", "Moulay Larbi", "Tircine", "Ain Sekhouna", "El Houdhane"]
+  },
+  {
+    "code": "21",
+    "name_en": "Skikda",
+    "name_ar": "سكيكدة",
+    "delivery_fee_home": 500,
+    "delivery_fee_desk": 350,
+    "communes": ["Skikda", "El Harrouch", "Azzaba", "Ramdane Djamel", "Collo", "Tamalous", "Ain Charchar", "Filfila", "Ben Azzouz", "Oued Z'hor", "Emdjez Edchich", "Ouled Attia", "Salah Bouchaour", "Ain Zouit", "El Ghedir", "Kerkara", "Ouled Habbaba", "Zerdazas", "Ain Bouziane", "Fech", "Bekkouche Lakhdar", "Sidi Mezghiche", "El Hadaiek", "Beni Bechir", "Ain Kechra", "Djendel Saadi Mohamed", "Beni Oulbane", "Oued Zhar", "Eulma", "Cheraia", "Bouchtata", "Hamadi Krouma", "Mouadjebara", "Bouabaz"]
+  },
+  {
+    "code": "22",
+    "name_en": "Sidi Bel Abbès",
+    "name_ar": "سيدي بلعباس",
+    "delivery_fee_home": 600,
+    "delivery_fee_desk": 400,
+    "communes": ["Sidi Bel Abbès", "Telagh", "Sidi Lahcene", "Ben Badis", "Ouled Brahim", "Sfisef", "Merine", "Ras El Ma", "Ain El Berd", "Sidi Ali Benyoub", "Tenira", "Marhoum", "Bedrabine El Mokrani", "Sid Ali Boussidi", "Ain Kada", "Hassi Zahana", "Zerouala", "Sidi Yacine", "Beni Tamou", "Lamtar", "Ain Adden", "Makedra", "Tefessour", "Sidi Yahia", "Mostefa Ben Brahim", "El Hacaiba", "Moulay Slissen", "Tessala", "Belarbi", "Ain Thrid", "Bir El Hammam", "Dhayam", "Boudjebaa El Bordj", "Moulay Abdelkader", "Sidi Brahim", "Sidi Hamadouche", "Telagh", "Sidi Ali Benyoub", "Ain Ghoraba", "Oued Sefioun", "Chettouane Belaila", "Sidi Ahmed", "Bouyabes", "Ain Tindamine"]
+  },
+  {
+    "code": "23",
+    "name_en": "Annaba",
+    "name_ar": "عنابة",
+    "delivery_fee_home": 500,
+    "delivery_fee_desk": 350,
+    "communes": ["Annaba", "El Bouni", "El Hadjar", "Sidi Amar", "Berrahal", "Oued El Aneb", "Ain Berda", "El Eulma", "Chraa", "Treat", "Seraidi"]
+  },
+  {
+    "code": "24",
+    "name_en": "Guelma",
+    "name_ar": "قالمة",
+    "delivery_fee_home": 600,
+    "delivery_fee_desk": 400,
+    "communes": ["Guelma", "Guelaat Bou Sbaa", "Bouchegouf", "Hammam Debagh", "Heliopolis", "Ain Makhlouf", "Ain Sandel", "Ain Larbi", "Bouhamdane", "Oued Zenati", "Boumahra Ahmed", "Bensakra", "Ain Ben Beida", "Beni Mezline", "Medjez Sfa", "Bouati Mahmoud", "Ras El Agba", "Oued Fragha", "Khezarrah", "Ain Mechnine", "Dahouara", "Hammam N'Bails", "Nechmaya", "Guelma", "Djeballah Khemissi", "Belkheir", "Ain Regada", "Ain Fedhlia", "Bouafes", "Ain Soltane", "Oued Lakhdar", "Bordj Eddakhla", "Hammam El Aneb"]
+  },
+  {
+    "code": "25",
+    "name_en": "Constantine",
+    "name_ar": "قسنطينة",
+    "delivery_fee_home": 500,
+    "delivery_fee_desk": 350,
+    "communes": ["Constantine", "El Khroub", "Ain Smara", "Hamma Bouziane", "Didouche Mourad", "Zighoud Youcef", "Beni Hamiden", "Ouled Rahmoun", "Ain Abid", "Ben Badis", "Beni Mehenni", "Messaoud Boudjeriou", "El Meridj", "Ibn Ziad", "Ain Tsagmait", "Bencheria", "Ain El Bey", "Ain Kerma", "Djebel El Ouahch", "Oued Rahmoun", "Sidi Kaci"]
+  },
+  {
+    "code": "26",
+    "name_en": "Médéa",
+    "name_ar": "المدية",
+    "delivery_fee_home": 400,
+    "delivery_fee_desk": 250,
+    "communes": ["Médéa", "Ksar El Boukhari", "Berrouaghia", "Ouled Antar", "Ain Boucif", "Beni Slimane", "El Omaria", "Beni Chebou", "Tablat", "Chahbounia", "Aouizara", "Boughzoul", "Ain Ouksir", "Ain El Hadjar", "Sidi Naamane", "Ouled Brahim", "Souagui", "Baata", "Draa Essamar", "El Guelb El Kebir", "Ouled Deid", "Ouled Hellal", "Ouled Bouachra", "Berkat", "Sidi Zahar", "Tommat", "Zoubiria", "Rechda", "Ouamri", "Ouled Mbarek", "Ouled Allal", "Harbil", "Sidi Mechkour", "Boughasil", "Kef Lakhdar", "Ain Djemaa", "El Azizia", "Tafsi", "Bouzaghou", "Ouled Aissa", "Sidi Amer", "Beni Zid", "Rouab", "M'Eleta", "Seghouane", "Sidi Damed", "Ain Tala"]
+  },
+  {
+    "code": "27",
+    "name_en": "Mostaganem",
+    "name_ar": "مستغانم",
+    "delivery_fee_home": 600,
+    "delivery_fee_desk": 400,
+    "communes": ["Mostaganem", "Ain Tedles", "Hassi Mameche", "Fornaka", "Ain Nouissy", "Sidi Lakhdar", "Achaacha", "Sidi Belattar", "Sour", "Ksour", "Mazagran", "Stidia", "Bouguirat", "Sirat", "Ain Sidi Cherif", "Hadjadj", "Nekmaria", "Ouled Maallah", "El Taleb", "Mesra", "Sayada", "Benabdelmalek Ramdane", "Khadra", "Abdelmalek Ramdane", "Tazgait", "Safsaf", "Ain Bouelle", "Boummadi", "Ouled Djerrad", "Ain Grine"]
+  },
+  {
+    "code": "28",
+    "name_en": "M'Sila",
+    "name_ar": "المسيلة",
+    "delivery_fee_home": 600,
+    "delivery_fee_desk": 400,
+    "communes": ["M'Sila", "Bou Saâda", "Ain El Melh", "Sidi Aissa", "Bordj Bou Arreridj", "Chellal", "Magra", "Beni Ilmane", "Belaiba", "Ain El Hadjel", "Sidi Ameur", "Maarif", "Bazine", "El Hamel", "Berhoum", "Sidi Khelifa", "Tarmount", "Ouanougha", "Khoubana", "Hamam Dhalaa", "Hammam El Refna", "Ouled Slimane", "Ain Khadra", "Bettibbet Messaada", "Bouti Sayah", "Tamsa", "Luaibed", "Zarzour", "Medroussa", "Maaifa", "Ragouba", "Ain El Hamra", "Ouled Cherif", "Belkheir", "Ouled Addi", "Sidi Brahim", "Ain Fares", "Mohamed Boudiaf", "Ouled Sassi", "Amoucha", "Berriche", "El Cheima", "Sidi M'hamed", "Tletlet", "Dhayet Ben Dhahoua"]
+  },
+  {
+    "code": "29",
+    "name_en": "Mascara",
+    "name_ar": "معسكر",
+    "delivery_fee_home": 600,
+    "delivery_fee_desk": 400,
+    "communes": ["Mascara", "Sig", "Oued El Abtal", "Tighenif", "Bou Hanifia", "Mohammadia", "Matemore", "Benian", "Tizi", "El Gaada", "Sehailia", "Hacine", "Oggaz", "Ain Farès", "Maoussa", "El Borma", "Hassi Zehana", "Sidi Abdelmoumen", "Ain Fekan", "Zahana", "El Hachem", "Beni Kada", "Ghriss", "Sidi Kada", "Boughar", "Ain Madi", "Barti", "Froha", "Ferraguig", "Chorfa", "Khalouia", "Hassaine", "Ain Aouiss", "Guerdjoum", "Bouhenni", "Nesmoth", "Ras El Ain Amirouche", "Tighennif", "El Ghomri", "Sidi Ouamar", "Beni Chaabane"]
+  },
+  {
+    "code": "30",
+    "name_en": "Ouargla",
+    "name_ar": "ورقلة",
+    "delivery_fee_home": 900,
+    "delivery_fee_desk": 550,
+    "communes": ["Ouargla", "Rouissat", "Hassi Messaoud", "N'Goussa", "El Borma", "Tebesbest", "Ain Beida", "Sidi Khouiled", "Témacine", "Sidi Slimane", "Megarine", "Hassi Ben Abdellah", "El Hadjira", "Taibet", "Benaceur", "El M'Ghair", "Sidi Aoun", "Nezla", "Ain El Hadjar", "Debila", "Guemar", "El Ogla", "Hassi Abdallah", "Ain El Beida"]
+  },
+  {
+    "code": "31",
+    "name_en": "Oran",
+    "name_ar": "وهران",
+    "delivery_fee_home": 600,
+    "delivery_fee_desk": 400,
+    "communes": ["Oran", "Bir El Djir", "Es Senia", "Arzew", "Bethioua", "Ain El Turck", "Mers El Kebir", "Sidi Chami", "Hassi Bounif", "Boufatis", "Oued Tlélat", "El Kerma", "Hassi Ben Okba", "Gdyel", "El Ancor", "Bousfer", "Ain Beida", "Boudjima", "El Bouraya", "Tafraoui", "Boufatis"]
+  },
+  {
+    "code": "32",
+    "name_en": "El Bayadh",
+    "name_ar": "البيض",
+    "delivery_fee_home": 900,
+    "delivery_fee_desk": 550,
+    "communes": ["El Bayadh", "El Amriya", "Rogassa", "Stitten", "Boussemghoun", "Cheguig", "Brezina", "El Abiodh Sidi Cheikh", "Boualem", "Krakda", "Tousmouline", "Sidi Slimane", "Ain El Orak", "El Mehara", "Arbaouat", "Bougtoub", "Benzerga", "Bouiane", "El Kheiter", "Chellala", "El Houita", "Marzag", "Mekambel", "Ouled Ammar", "Ouled Atef", "Ouled Barouni", "Ouled Brahim"]
+  },
+  {
+    "code": "33",
+    "name_en": "Illizi",
+    "name_ar": "إليزي",
+    "delivery_fee_home": 1500,
+    "delivery_fee_desk": 900,
+    "communes": ["Illizi", "Djanet", "Iherir", "Amguid", "Bordj Omar Driss", "In Amenas", "Debdeb", "Tadjemout"]
+  },
+  {
+    "code": "34",
+    "name_en": "Bordj Bou Arréridj",
+    "name_ar": "برج بوعريريج",
+    "delivery_fee_home": 500,
+    "delivery_fee_desk": 350,
+    "communes": ["Bordj Bou Arréridj", "El Achir", "Bordj Zemoura", "Mansoura", "Ras El Oued", "Bordj Ghédir", "Ain Taghrout", "Bordj Sidi Thabet", "Ain Tesra", "Ouled Sidi Brahim", "Bordj Kheïra", "Ouled Dahmane", "El Kennar", "Meddouka", "Sidi Embarek", "Ghassira", "Ben Daoud", "Bir Kasdali", "Bordj El Moussa", "Tefreg", "Belimour", "Ouled Addallah", "Ouled Djelloul", "Ouled Fadel", "Tagaou", "Ain Menaa", "Colla", "Djaafra", "El Main", "Hammam El Refna", "Khallat", "Laouamer", "Leghata", "Ouled Brahim", "Sidi Said", "Taglait", "Zelman"]
+  },
+  {
+    "code": "35",
+    "name_en": "Boumerdès",
+    "name_ar": "بومرداس",
+    "delivery_fee_home": 400,
+    "delivery_fee_desk": 250,
+    "communes": ["Boumerdès", "Bordj Menaïel", "Boudouaou", "Dellys", "Boudouaou El Bahri", "Ouled Moussa", "Tidjelabine", "Bouzegza Keddara", "Boufoum", "Beni Amrane", "Thenia", "Zemmouri", "Si Mustapha", "Ouled Alane", "Leghata", "Naciria", "Timezrit", "Khemis El Khechna", "Souk El Had", "Boualem", "Ouled Hellal", "Chabet El Ameur", "Isser", "M'Chacha", "Bouiche", "Amroucha", "Djinet", "Oued Isser", "Sidi Daoud", "Ouled Sidi Mohammed", "Boukhalfa", "Mesbahia", "Boudouaou El Bahri"]
+  },
+  {
+    "code": "36",
+    "name_en": "El Tarf",
+    "name_ar": "الطارف",
+    "delivery_fee_home": 600,
+    "delivery_fee_desk": 400,
+    "communes": ["El Tarf", "El Kala", "Ben M'Hidi", "Bouhadjar", "Ain El Assel", "Bouteldja", "Raml Souk", "Oum El Alia", "Berrihane", "Chefia", "Zitouna", "Ain Kerma", "Echatt", "El Aioun", "Sidi Kaci", "Ain Moussa", "Souarekh", "El Tarf", "Boumessaoud", "Hammam Beni Salah", "Ain Laarabi", "Oued Berka", "Beni Ouazane", "Chbaita Mokhtar", "El Tarf"]
+  },
+  {
+    "code": "37",
+    "name_en": "Tindouf",
+    "name_ar": "تندوف",
+    "delivery_fee_home": 1500,
+    "delivery_fee_desk": 900,
+    "communes": ["Tindouf", "Oum El Assel", "Tiserane", "El Aouinet"]
+  },
+  {
+    "code": "38",
+    "name_en": "Tissemsilt",
+    "name_ar": "تيسمسيلت",
+    "delivery_fee_home": 600,
+    "delivery_fee_desk": 400,
+    "communes": ["Tissemsilt", "Bordj Bou Naama", "Ain Boucif", "Theniet El Had", "Lardjem", "Lehreche", "Beni Bouattab", "Ammaria", "Maacem", "Sidi Lantri", "Sidi Slimane", "Berhim", "Yousoufia", "Ouled Bessam", "Beni Chaib", "Sidi Yacoub", "El Marbouche", "Ain Lahdjar", "Ouled Ali", "Bordj El Emir Abdelkader"]
+  },
+  {
+    "code": "39",
+    "name_en": "El Oued",
+    "name_ar": "الوادي",
+    "delivery_fee_home": 700,
+    "delivery_fee_desk": 450,
+    "communes": ["El Oued", "Debila", "Guemar", "Hassi Khelifa", "Robbah", "El M'Ghair", "Bayadha", "Reguiba", "Nakhla", "Oued El Alenda", "Taleb Larbi", "Douar El Ma", "Sidi Aoun", "El Ogla", "Kouinine", "Djamaa", "Mghira", "Tenedla", "Ourmes", "Michrif", "El Ogla", "Mih Ouansa", "Magrane", "El Amra", "Still", "Debila", "Beni Oubane", "Ain Beida", "Ain Ouha", "Oued El Ma", "Nakhla"]
+  },
+  {
+    "code": "40",
+    "name_en": "Khenchela",
+    "name_ar": "خنشلة",
+    "delivery_fee_home": 700,
+    "delivery_fee_desk": 450,
+    "communes": ["Khenchela", "Kais", "El Hamma", "Ain Touila", "Ain Bouziane", "Chechar", "Babar", "Ouled Rechache", "Yabous", "El Mahmal", "Msara", "Bouhmama", "El Oueldja", "Taouzianat", "Tamza", "Cheguiga", "Baghai", "Fkerine", "El Bagra", "Tellaif", "Lemssot", "Khirane", "Chebika", "Boudebane", "Zaoui El Ferd", "El Kheycha", "Ouled Hkim", "Djabrouine"]
+  },
+  {
+    "code": "41",
+    "name_en": "Souk Ahras",
+    "name_ar": "سوق أهراس",
+    "delivery_fee_home": 600,
+    "delivery_fee_desk": 400,
+    "communes": ["Souk Ahras", "M'Daourouch", "Sedrata", "Mechroha", "Oum El Adhaïm", "Ain Sedria", "El Teraif", "Heddada", "Drea", "Sidi Fredj", "Ouillen", "Hanencha", "Ouled Driss", "Birket", "Taoura", "Ain Zana", "Zaarouria", "El Ogla", "Machrouha", "Ain El Oussera", "Oued Keberit", "Hanancha", "Bouchegouf"]
+  },
+  {
+    "code": "42",
+    "name_en": "Tipaza",
+    "name_ar": "تيبازة",
+    "delivery_fee_home": 400,
+    "delivery_fee_desk": 250,
+    "communes": ["Tipaza", "Cherchell", "Bou Ismail", "Koléa", "Fouka", "Attatba", "Sidi Rached", "Hadjout", "Bourkika", "Damous", "Gouraya", "Nador", "Aghbal", "Messelmoun", "Chentouf", "Marach", "Menaceur", "Ain Tagourait", "Chaiba", "Sidi Bennour", "El Amra", "Berdiou", "Khemisti", "Sidi Amar", "Sidi Smaïl"]
+  },
+  {
+    "code": "43",
+    "name_en": "Mila",
+    "name_ar": "ميلة",
+    "delivery_fee_home": 500,
+    "delivery_fee_desk": 350,
+    "communes": ["Mila", "Ain Beida", "Chelghoum Laïd", "Ferdjioua", "Grarem Gouga", "Oued Athmania", "Sidi Merouane", "Tadjenanet", "Ain Mellouk", "Oued Seguen", "Bouhatem", "Tassadane Haddada", "Zeghaia", "Ouled Fares", "Ain Tine", "Mechira", "Terrai Bainen", "Rouached", "Youcefia", "Ouled Aissa", "Minar Zarza", "Benyahia Abderrahmane", "Cheghmar", "Amira Arres", "Sidi Abdelatif", "Djebala", "Ouled Khalouf"]
+  },
+  {
+    "code": "44",
+    "name_en": "Aïn Defla",
+    "name_ar": "عين الدفلى",
+    "delivery_fee_home": 450,
+    "delivery_fee_desk": 300,
+    "communes": ["Aïn Defla", "Miliana", "Hammam Righa", "Khemis Miliana", "El Abadia", "Boumedfaâ", "Ain Bouyahia", "Rouina", "Zeddine", "Beni Hassane", "Hassania", "Djelida", "Ain Benian", "Ain Lechiakh", "El Amra", "Bathia", "Bir Ouled Khelifa", "Tarhia", "Arib", "Oued Chorfa", "Bourached", "Hoceinia", "Sidi Boumediene", "Ain Torki", "El Attaf", "Tachta Zegagha", "Ain Djemaa", "Sidi Ahmed", "Ouled Ben Ahmed", "Ain Soltane", "Tizi Medene", "Ain Merbine", "Ain Keran", "Djendel", "Sidi Ladjel", "Boukayoua"]
+  },
+  {
+    "code": "45",
+    "name_en": "Naâma",
+    "name_ar": "النعامة",
+    "delivery_fee_home": 900,
+    "delivery_fee_desk": 550,
+    "communes": ["Naâma", "Mecheria", "Ain Sefra", "Sfissifa", "Asla", "Ain Ben Khelil", "Kasdir", "Tiout", "Ain Fettah", "Denane", "El Houdier", "Ain Leya", "Moghrar", "Sidi Yamni", "El Ogla", "Ain Biad", "Boussira"]
+  },
+  {
+    "code": "46",
+    "name_en": "Aïn Témouchent",
+    "name_ar": "عين تموشنت",
+    "delivery_fee_home": 600,
+    "delivery_fee_desk": 400,
+    "communes": ["Aïn Témouchent", "Bouzedjar", "El Malah", "Hammam Bou Hadjar", "Oulha Bouaouina", "Ain Kihal", "El Amria", "Emir Abdelkader", "Chaabat El Leham", "Oued Sebbah", "Ain Trija", "Ouled Khellouf", "Ouled Ben Hamouda", "Sidi Boumedienne", "Beni Saf", "Berhicher", "Terga", "Oued Berkeche", "Sidi Boumedienne", "Hassi El Ghella", "Sidi Ben Adda", "Ouled Aouad", "El Hamadia", "Boudjelbana", "Ain Zeraket", "Ain Ramech", "Tamzoura", "Chebbak", "Ain Larbaa"]
+  },
+  {
+    "code": "47",
+    "name_en": "Ghardaïa",
+    "name_ar": "غرداية",
+    "delivery_fee_home": 900,
+    "delivery_fee_desk": 550,
+    "communes": ["Ghardaïa", "Bounoura", "Daya Ben Dahoua", "Métlili", "El Atteuf", "Berriane", "Guerrara", "Zelfana", "Hassi El Gara", "Sebseb", "Mansoura"]
+  },
+  {
+    "code": "48",
+    "name_en": "Relizane",
+    "name_ar": "غليزان",
+    "delivery_fee_home": 600,
+    "delivery_fee_desk": 400,
+    "communes": ["Relizane", "Oued Rhiou", "Ammi Moussa", "Zemmora", "El Matmar", "Belassel Bouzegza", "Sidi M'Hamed Ben Ali", "Beni Zentis", "Mazouna", "Sidi Khettab", "Sidi M'hamed", "Ouled Aiche", "El-Hassaneine", "Jdiouia", "Hmadna", "Ziane Abssa", "Sidi Aziz", "El Guettar", "Ouizert", "Bendaoud", "Mazela", "Dar El Menikh", "Beni Redima", "Bradja", "Rouaguen", "Ouled Amrane", "Sidi Lahcene", "Ain Tarik", "Oued Djemaa", "Kalitoua", "Souk El Had", "Sidi Moussa", "Ouled Khelifa", "Boudjema Touiz", "Zemmour", "Medroussa", "Ain Rahma", "Bekalta", "Grime"]
+  },
+  {
+    "code": "49",
+    "name_en": "Timimoun",
+    "name_ar": "تيميمون",
+    "delivery_fee_home": 1200,
+    "delivery_fee_desk": 700,
+    "communes": ["Timimoun", "Aougrout", "Charouine", "Ouled Aissa", "Tinerkouk", "Metarfa", "Talmine", "Bouda", "Ouled Said", "Deldoul", "In Zghmir"]
+  },
+  {
+    "code": "50",
+    "name_en": "Bordj Badji Mokhtar",
+    "name_ar": "برج باجي مختار",
+    "delivery_fee_home": 1800,
+    "delivery_fee_desk": 1000,
+    "communes": ["Bordj Badji Mokhtar", "Timiaouine"]
+  },
+  {
+    "code": "51",
+    "name_en": "Ouled Djellal",
+    "name_ar": "أولاد جلال",
+    "delivery_fee_home": 700,
+    "delivery_fee_desk": 450,
+    "communes": ["Ouled Djellal", "Sidi Khaled", "Besbes", "Doucen", "Chaïba", "Ras El Miad", "Oumache", "Ras El Alem", "El Feidh", "Zeribet El Oued"]
+  },
+  {
+    "code": "52",
+    "name_en": "Béni Abbès",
+    "name_ar": "بني عباس",
+    "delivery_fee_home": 1000,
+    "delivery_fee_desk": 600,
+    "communes": ["Béni Abbès", "Kerzaz", "Timoudi", "Igli", "Beni Ikhlef", "El Ouata", "Ksabi", "Ouled Khoudir", "Tabelbala", "Tamtert"]
+  },
+  {
+    "code": "53",
+    "name_en": "In Salah",
+    "name_ar": "عين صالح",
+    "delivery_fee_home": 1400,
+    "delivery_fee_desk": 850,
+    "communes": ["In Salah", "Foggaret Ezzaouia", "Ain Salah", "Ain Amana", "Ain Madhi", "Tamekrest", "Tit"]
+  },
+  {
+    "code": "54",
+    "name_en": "In Guezzam",
+    "name_ar": "عين قزام",
+    "delivery_fee_home": 1800,
+    "delivery_fee_desk": 1000,
+    "communes": ["In Guezzam", "Tin Zaouatine", "Abalessa"]
+  },
+  {
+    "code": "55",
+    "name_en": "Touggourt",
+    "name_ar": "تقرت",
+    "delivery_fee_home": 800,
+    "delivery_fee_desk": 500,
+    "communes": ["Touggourt", "Tebesbest", "Nezla", "Sidi Slimane", "Megarine", "Zaouia El Abidia", "Temacine", "El Borma", "Blidet Amor", "Hassi Ben Abdellah", "Mghira", "Nekhla", "Touggourt", "Ain El Hadjar"]
+  },
+  {
+    "code": "56",
+    "name_en": "Djanet",
+    "name_ar": "جانت",
+    "delivery_fee_home": 1500,
+    "delivery_fee_desk": 900,
+    "communes": ["Djanet", "Bordj El Haouas", "Iherir", "Amguid"]
+  },
+  {
+    "code": "57",
+    "name_en": "El M'Ghair",
+    "name_ar": "المغير",
+    "delivery_fee_home": 700,
+    "delivery_fee_desk": 450,
+    "communes": ["El M'Ghair", "Sidi Aoun", "Djamaa", "Mghira", "Tenedla", "El Amra", "Sidi Khelil", "Oum Touyour", "Tendela", "Magrane", "Bayadha", "Still", "Ourmes"]
+  },
+  {
+    "code": "58",
+    "name_en": "El Meniaa",
+    "name_ar": "المنيعة",
+    "delivery_fee_home": 900,
+    "delivery_fee_desk": 550,
+    "communes": ["El Meniaa", "Hassi Gara", "Hassi El Hajar", "Sebseb"]
+  }
+]
