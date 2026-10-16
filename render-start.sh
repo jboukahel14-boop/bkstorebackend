@@ -3,10 +3,12 @@ set -e
 
 echo "Starting Laravel application deployment on Render..."
 
+# Ensure views directory exists for pure API applications
+mkdir -p /var/www/html/resources/views
+
 # Cache configuration & routes for production speed
 php artisan config:cache
 php artisan route:cache
-php artisan view:cache
 
 # Run database migrations
 php artisan migrate --force
